@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="DXN1-0DAY banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#05070b"/>
+    <stop offset="0.6" stop-color="#090d16"/>
+    <stop offset="1" stop-color="#03050a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6ee7ff"/>
+    <stop offset="0.5" stop-color="#4f8cff"/>
+    <stop offset="1" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e293b" stroke-width="1" opacity=".38"/></pattern>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<path d="M0 290 L310 290 L385 215 L815 215 L905 125 L1200 125" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55"/>
+<path d="M0 70 L230 70 L290 130 L910 130 L965 70 L1200 70" fill="none" stroke="#334155" stroke-width="1" opacity=".5"/>
+<path d="M60 315 L60 45 M1140 315 L1140 45" stroke="#2563eb" stroke-width="2" opacity=".7"/>
+<circle cx="60" cy="70" r="5" fill="#60a5fa" filter="url(#glow)"/><circle cx="1140" cy="70" r="5" fill="#8b5cf6" filter="url(#glow)"/>
+<text x="600" y="172" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="8">DXN1-0DAY</text>
+<text x="600" y="218" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">AI  /  WRAPPERS  /  TOOLS  /  PLUGINS</text>
+<text x="600" y="250" text-anchor="middle" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">BUILDING PRACTICAL AI SOFTWARE</text>
+<text x="42" y="330" fill="#475569" font-family="monospace" font-size="12">DXN1-0DAY // OPEN SOURCE // AI</text>
+<text x="1158" y="330" text-anchor="end" fill="#475569" font-family="monospace" font-size="12">CODE · SHIP · ITERATE</text>
+</svg>
