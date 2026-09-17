@@ -7,7 +7,7 @@
 Building practical AI software, integrations, and developer tooling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DXN1--0DAY-111827?style=for-the-badge&logo=github)](https://github.com/DXN1-0DAY)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wEz5j8VC)
+[![Discord DM](https://img.shields.io/badge/Discord-DM%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wEz5j8VC)
 
 </div>
 
@@ -46,7 +46,7 @@ I care about turning ideas into working software, keeping components reusable, a
 
 ## Connect
 
-[GitHub](https://github.com/DXN1-0DAY) · [Discord](https://discord.gg/wEz5j8VC)
+[GitHub](https://github.com/DXN1-0DAY) · [Discord DM](https://discord.gg/wEz5j8VC)
 
 ---
 
